@@ -25,7 +25,7 @@ int main() {
         
         printf("ID: ");
         scanf("%d", &Livro[i].id_livro);
-        getchar(); // Limpa o enter
+        getchar(); 
     }
 
     printf("\nLivros Cadastrados:\n");
